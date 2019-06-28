@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: andreslonmednet 
 spec:
-  replicas: 1
+  replicas: 15
   template:
     metadata:
       labels:
